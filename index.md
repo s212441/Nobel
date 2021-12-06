@@ -1,4 +1,4 @@
-{% include /custom/bokeh.html %}
+{% include /images/bokeh.html %}
 ## The network of Nobel Prize laureates 
 
 This webpage showcases the work we did for the project assignment of the course Social graphs and interactions. 
